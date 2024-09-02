@@ -21,19 +21,8 @@ public class Exercicio6 {
 
         consumoMedio = distancia / totalGasto;
 
-       // System.out.printf("\nO consumo médio do veículo é %.2f km/l", consumoMedio);
-       System.out.printf("O consumo médio do veículo é de %.2f km/l", consumoMedio);
-
-
-
-
-
-
-
-
-        System.out.println();
-
-        
+        System.out.printf("O consumo médio do veículo é de %.2f km/l", consumoMedio);
+    
     }
 
 }
