@@ -13,7 +13,8 @@ public class PoolistaApplication {
 		//Exercicio2.resolucao();
 		//Exercicio3.resolucao();
 		//Exercicio4.resolucao();
-		Exercicio5.resolucao();
+		//Exercicio5.resolucao();
+		Exercicio6.resolucao();
 	}
 
 }
