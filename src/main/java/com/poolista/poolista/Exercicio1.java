@@ -2,6 +2,8 @@ package com.poolista.poolista;
 
 import java.util.Scanner;
 
+//1) Escreva um programa que faça a soma entre 2 números. 
+
 public class Exercicio1 {
     public static void resolucao() {
 		

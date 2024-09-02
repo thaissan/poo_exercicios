@@ -2,6 +2,9 @@ package com.poolista.poolista;
 
 import java.util.Scanner;
 
+//2) Escreva um programa que pergunte o nome e osobrenome do usuário e escreva na tela: "Olá, -usuário-".
+
+
 public class Exercicio2 {
 
     public static void resolucao() {
