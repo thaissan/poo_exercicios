@@ -1,4 +1,4 @@
-package com.poolista.poolista;
+package lista1;
 
 import java.util.Scanner;
 
@@ -18,6 +18,8 @@ public class Exercicio8 {
         celsius = (fahrenheit - 32) / 1.8;
 
         System.out.printf("A temperatura em Celsius é: %.1f °C", celsius);
+
+        scanner.close();
         
     }
 

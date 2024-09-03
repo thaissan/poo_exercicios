@@ -1,4 +1,4 @@
-package com.poolista.poolista;
+package lista1;
 
 import java.util.Scanner;
 
@@ -22,6 +22,8 @@ public class Exercicio6 {
         consumoMedio = distancia / totalGasto;
 
         System.out.printf("O consumo médio do veículo é de %.2f km/l", consumoMedio);
+
+        scanner.close();
     
     }
 

@@ -1,4 +1,4 @@
-package com.poolista.poolista;
+package lista1;
 
 import java.util.Scanner;
 
@@ -11,13 +11,15 @@ public class Exercicio2 {
         String nome, sobrenome;
 
         System.out.println("Digite seu nome: ");
-        Scanner scanner1 = new Scanner(System.in);
-        nome = scanner1.nextLine();
+        Scanner scanner = new Scanner(System.in);
+        nome = scanner.nextLine();
 
         System.out.println("Digite seu sobrenome: ");
-        sobrenome = scanner1.nextLine();
+        sobrenome = scanner.nextLine();
 
         System.out.println("Olá, "+ nome +" "+sobrenome + " !");
+
+        scanner.close();
 
 
     }

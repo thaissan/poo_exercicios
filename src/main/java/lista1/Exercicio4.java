@@ -1,4 +1,4 @@
-package com.poolista.poolista;
+package lista1;
 
 import java.util.Scanner;
 
@@ -15,6 +15,8 @@ public class Exercicio4 {
         n1 = scanner.nextInt();
 
         System.out.print("O antecessor é: "+(n1-1)+ "\nE o sucessor é: "+(n1+1));
+
+        scanner.close();
 
     }
 

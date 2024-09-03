@@ -1,4 +1,4 @@
-package com.poolista.poolista;
+package lista1;
 
 import java.util.Scanner;
 
@@ -21,6 +21,8 @@ public class Exercicio5 {
         total = area * valorPorMetroQuadrado;
 
         System.out.printf("O valor total do terreno é de R$ %.2f.", total);
+
+        scanner.close();
     }
 
 }

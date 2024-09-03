@@ -1,4 +1,4 @@
-package com.poolista.poolista;
+package lista1;
 
 import java.util.Scanner;
 
@@ -29,7 +29,9 @@ public class Exercicio7 {
 
         media = (n1+n2+n3+n4)/4;
 
-        System.out.printf("A media do aluno foi : %.2f ", media);        
+        System.out.printf("A media do aluno foi : %.2f ", media);     
+        
+        scanner.close();
     }
 
 }

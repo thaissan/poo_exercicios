@@ -1,4 +1,4 @@
-package com.poolista.poolista;
+package lista1;
 
 import java.util.Scanner;
 
@@ -15,8 +15,8 @@ public class Exercicio3 {
         String resultado = String.format("%.2f", valor);
 
         System.out.println("O valor convertido para dólares é de: US$" + resultado);
+
+        scanner.close();
     }
-
-
 
 }
