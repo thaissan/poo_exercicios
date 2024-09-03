@@ -6,7 +6,7 @@ Este repositório contém listas de exercícios de Programação Orientada a Obj
 <br>
 
 <details>
-  <summary>Exercícios da Lista 01</summary>
+  <summary><a href="https://github.com/thaissan/poo_exercicios/tree/main/src/main/java/lista1">Exercícios da Lista 01</a></summary>
   
   - **1) Escreva um programa que faça a soma entre 2 números.**
   - **2) Escreva um programa que pergunte o nome e o sobrenome do usuário e escreva na tela: "Olá, -usuário-".**
@@ -22,7 +22,7 @@ Este repositório contém listas de exercícios de Programação Orientada a Obj
 </details>
 
 <details>
-  <summary>Exercícios da Lista 02</summary>
+  <summary><a href="https://github.com/thaissan/poo_exercicios/tree/main/src/main/java/lista2">Exercícios da Lista 02</a></summary>
 
   - **1) Escreva um programa que recebe um número digitado pelo usuário e responda se o número inserido é par ou ímpar ou 0.**
   - **2) Desenvolva um algoritmo que seja capaz de receber dois números digitados pelo usuário e diga qual deles é maior.**
