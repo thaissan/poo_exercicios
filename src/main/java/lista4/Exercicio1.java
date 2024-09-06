@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class Exercicio1 {
     public static void resolucao() {
-   
+  
 
     }
 

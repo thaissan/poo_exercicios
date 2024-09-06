@@ -12,7 +12,7 @@ public class PoolistaApplication4 {
          Scanner scanner = new Scanner(System.in);
         
         while (true) {
-            System.out.println("Selecione a lista de exercícios que você deseja executar:");
+            System.out.println("\nSelecione a lista de exercícios que você deseja executar:");
             System.out.println("1 - Exercício 1");
             System.out.println("2 - Exercício 2");
             System.out.println("3 - Exercício 3");
@@ -37,9 +37,9 @@ public class PoolistaApplication4 {
                 case 4:
                     Exercicio4.resolucao();
                     break;
-                // case 5:
-                //     Exercicio5.resolucao();
-                //     break;
+                case 5:
+                    Exercicio5.resolucao();
+                    break;
                 // case 6:
                 //     Exercicio6.resolucao();
                 //     break;
