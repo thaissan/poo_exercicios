@@ -51,8 +51,9 @@ public class Exercicio7 {
                     int removerItem = scanner.nextInt();
                     scanner.nextLine();
 
-                    if (removerItem > 0 && removerItem <= listaDeCompras.size()) {
+                    if (removerItem > 0 && removerItem <= listaDeCompras.size() && removerItem <= listaDePrecos.size()) {
                         listaDeCompras.remove(removerItem - 1);
+                        listaDePrecos.remove(removerItem - 1);
                         System.out.println("Item removido com sucesso!");
                     } else {
                         System.out.println("ERRO: O item não existe.");
