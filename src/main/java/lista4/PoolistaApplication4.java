@@ -20,6 +20,7 @@ public class PoolistaApplication4 {
             System.out.println("5 - Exercício 5");
             System.out.println("6 - Exercício 6");
             System.out.println("7 - Exercício 7");
+            System.out.println("8 - Exercício 8");
             System.out.println("0 - Sair");
 
             int opcao = scanner.nextInt();
@@ -43,9 +44,12 @@ public class PoolistaApplication4 {
                 case 6:
                     Exercicio6.resolucao();
                     break;
-                // case 7:
-                //     Exercicio7.resolucao();
-                //     break;    
+                case 7:
+                    Exercicio7.resolucao();
+                    break; 
+                 case 8:
+                    Exercicio8.resolucao();
+                    break; 
                 case 0:
                     System.out.println("Saindo...");
                     scanner.close();
